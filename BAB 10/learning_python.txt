@@ -1,0 +1,4 @@
+In Python you can build web applications and APIs.
+In Python you can analyze large datasets using Pandas.
+In Python you can automate repetitive tasks easily.
+In Python you can create machine learning models.
